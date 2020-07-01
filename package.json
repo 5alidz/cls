@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/5alidz/matchers.git"
+    "url": "git+https://github.com/5alidz/cls.git"
   },
   "keywords": [
     "className",
@@ -23,9 +23,9 @@
   "author": "5alid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/5alidz/matchers/issues"
+    "url": "https://github.com/5alidz/cls/issues"
   },
-  "homepage": "https://github.com/5alidz/matchers#readme",
+  "homepage": "https://github.com/5alidz/cls#readme",
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "jest": "^26.0.1",
