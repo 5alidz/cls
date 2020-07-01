@@ -1,6 +1,6 @@
 {
   "name": "@5alid/cls",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "css className merge, with conditions",
   "types": "index.d.ts",
   "main": "index.js",
