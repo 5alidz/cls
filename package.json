@@ -2,7 +2,8 @@
   "name": "@5alid/cls",
   "version": "1.0.1",
   "description": "css className merge, with conditions",
-  "types": "dist/index.d.ts",
+  "types": "index.d.ts",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
