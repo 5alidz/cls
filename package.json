@@ -1,0 +1,34 @@
+{
+  "name": "@5alid/cls",
+  "version": "0.1.1",
+  "description": "css className merge, with conditions",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prepublish": "npm version patch && git push -u origin master && tsc",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5alidz/matchers.git"
+  },
+  "keywords": [
+    "className",
+    "merge"
+  ],
+  "author": "5alid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5alidz/matchers/issues"
+  },
+  "homepage": "https://github.com/5alidz/matchers#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  }
+}
